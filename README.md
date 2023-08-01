@@ -198,3 +198,23 @@ A dashboard has been visualized in Tableau as part of the capstone project. The 
 
 ![Dashboard 4](https://github.com/Ed-Kwesi/bike_share/assets/140979188/8b4debb2-e961-49a2-ae38-29f848ce554c)
 This is a screenshot of the link to the dashboard visualized in Tableau as part of the capstone project
+
+
+# Reference
+1) I drew inspiration from the outline of a colleague in the Google Data Analytics Certificate Program [https://github.com/jwilsh/Bellabeat_Case_Study/blob/main/README.md#10-ask](https://github.com/jwilsh/Bellabeat_Case_Study/blob/main/README.md#10-ask)
+
+2) Data Licence Agreement [https://ride.divvybikes.com/data-license-agreement](https://ride.divvybikes.com/data-license-agreement)
+
+3) Bolden text [https://www.markdownguide.org/basic-syntax/#:~:text=To%20bold%20text%2C%20add%20two,without%20spaces%20around%20the%20letters.&text=I%20just%20love%20**bold,bold%20text.](https://www.markdownguide.org/basic-syntax/#:~:text=To%20bold%20text%2C%20add%20two,without%20spaces%20around%20the%20letters.&text=I%20just%20love%20**bold,bold%20text.)
+
+4) Lists [https://www.markdownguide.org/basic-syntax/#:~:text=To%20create%20an%20unordered%20list,to%20create%20a%20nested%20list.](https://www.markdownguide.org/basic-syntax/#:~:text=To%20create%20an%20unordered%20list,to%20create%20a%20nested%20list.)
+
+5)  Dataset [https://divvy-tripdata.s3.amazonaws.com/index.html](https://divvy-tripdata.s3.amazonaws.com/index.html)
+
+6) Tables [https://www.codecademy.com/resources/docs/markdown/tables](https://www.codecademy.com/resources/docs/markdown/tables)
+
+7) Case study [https://artscience.blog/home/divvy-dataviz-case-study](https://artscience.blog/home/divvy-dataviz-case-study)
+
+8) Images [https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown](https://stackoverflow.com/questions/41604263/how-do-i-display-local-image-in-markdown)
+
+9) Pie chart [https://community.tableau.com/s/question/0D54T00000C62nfSAB/percentage-and-count-in-pie-charts](https://community.tableau.com/s/question/0D54T00000C62nfSAB/percentage-and-count-in-pie-charts)  
