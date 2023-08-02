@@ -1,3 +1,9 @@
+<p align="center" style="color:blue">
+  <img src="https://u7q2x7c9.stackpathcdn.com/photos/26/22/383687_8457_XL.jpg" />
+</p>
+
+
+
 # Bike-Share_Case_Study
 This is a documentation of my capstone project in the [Google Data Analytics Professional Certificate](https://www.coursera.org/google-certificates/data-analytics-certificate) course. The study is on subscriber data of a fictional bike sharing company that invesitgates the ways its members and casual riders use bikes differently. 
 
@@ -219,5 +225,6 @@ This is a screenshot of the link to the dashboard visualized in Tableau as part 
 
 9) Pie chart [https://community.tableau.com/s/question/0D54T00000C62nfSAB/percentage-and-count-in-pie-charts](https://community.tableau.com/s/question/0D54T00000C62nfSAB/percentage-and-count-in-pie-charts)
 
-10) 
+10) Text align for image [https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github](https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github)
 
+11) Photo credit: https://u7q2x7c9.stackpathcdn.com/photos/26/22/383687_8457_XL.jpg
