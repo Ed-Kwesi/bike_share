@@ -1,5 +1,5 @@
 <p align="center" style="color:blue">
-  <img src="https://u7q2x7c9.stackpathcdn.com/photos/26/22/383687_8457_XL.jpg" />
+  <img src="https://images.squarespace-cdn.com/content/v1/5e8f31c8664e7b358a701917/1600853755630-29XAUBBXU45UGP1DWRHX/ch_Divvy-bikes+%281%29.jpg?" />
 </p>
 
 
