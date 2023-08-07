@@ -228,3 +228,5 @@ This is a screenshot of the link to the dashboard visualized in Tableau as part 
 10) Text align for image [https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github](https://stackoverflow.com/questions/12090472/how-do-i-center-an-image-in-the-readme-md-file-on-github)
 
 11) Photo credit: https://u7q2x7c9.stackpathcdn.com/photos/26/22/383687_8457_XL.jpg
+
+12) Code: https://docs.google.com/document/d/1TTj5KNKf4BWvEORGm10oNbpwTRk1hamsWJGj6qRWpuI/edit?pli=1
